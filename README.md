@@ -66,3 +66,17 @@ Screenshots of the dashboard are available in the `Screenshots` folder.
 This is my first Power BI project as part of my Data Analysis journey with DEPI.
 
 It's just the beginning — more challenging projects are coming! 🚀
+
+
+## 🎯 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX
+- Time Intelligence
+- Data Visualization
+- KPI Development
+- Interactive Dashboard Design
+- Drill-through Analysis
+- Business Intelligence
